@@ -28,7 +28,6 @@ html{
   width: 100%;
   background-image: url('../../Resources/Pictures/dude-glasses-bg.png');
   height: 31rem;
-  padding-bottom: 10rem;
 }
 .bannercontainer{
   z-index: 2;
@@ -71,6 +70,8 @@ html{
   color: black;
   border: 3px solid blue;
   margin-top: 10rem;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /*BANNER TOP WITH BACKGROUND IMG*/
