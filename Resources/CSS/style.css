@@ -24,10 +24,12 @@ html{
   display: flex;
   flex-direction: column;
   color: white;
+
   align-items: center;
   box-sizing: border-box;
   width: 100%;
-  background-image: url('../../Resources/Pictures/dude-glasses-bg.png');
+  background: url('../../Resources/Pictures/dude-glasses-bg.png')no-repeat center center;
+  background-size: cover;
   height: 31rem;
 }
 
@@ -87,8 +89,15 @@ html{
   height: 8rem;
   flex-wrap: wrap;
   align-items: flex-start;
+  width: 960px;
 }
 .img1{
+  border: 2px solid red;
+  margin: auto 6rem;
+}
+.img1txt{
+
+  border: 2px solid red;
   margin: auto 6rem;
 
 }
