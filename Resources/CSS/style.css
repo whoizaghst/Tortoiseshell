@@ -16,7 +16,7 @@ html{
 
 }
 
-/* Banner  strip at the top with menu options*/
+/*BANNER TOP WITH MENU AND BACKGROUND IMG*/
 
 .bannerbackground{
   z-index: 1;
@@ -78,4 +78,17 @@ html{
   font-weight: bold;
 }
 
-/*BANNER TOP WITH BACKGROUND IMG*/
+/* ADVANTAGES OF Tortoiseshell OPTICS IMG */
+
+.img{
+  border: 2px solid yellow;
+  margin: 3rem auto;
+  display: flex;
+  height: 8rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.img1{
+  margin: auto 6rem;
+
+}
